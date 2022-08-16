@@ -9,11 +9,11 @@
                         "value": ""
                     },
                     {
-                        "type": "min|max",
+                        "type": "max",
                         "value": "10"
                     },
                     {
-                        "type": "min_length|max_length",
+                        "type": "min",
                         "value": "10"
                     }
                 ],
