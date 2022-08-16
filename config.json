@@ -47,38 +47,42 @@
     },
     "metadata": {
         "form_data": [
-             {
-        "type": "checkbox",
-        "default_value": "apple",
-        "label": "label_3",
-        "key": "key_3",
-        "options": ["apple", "pear", "grapes"]
-    },
-
-    {
-        "type": "radio",
-        "default_value": "orange",
-        "label": "label_4",
-        "key": "key_4",
-        "options": ["orange", "pineapple", "kiwi"]
-    },
+            {
+                "type": "checkbox",
+                "default_value": "apple",
+                "label": "label_3",
+                "key": "key_3",
+                "options": [
+                    "apple",
+                    "pear",
+                    "grapes"
+                ]
+            },
+            {
+                "type": "radio",
+                "default_value": "orange",
+                "label": "label_4",
+                "key": "key_4",
+                "options": [
+                    "orange",
+                    "pineapple",
+                    "kiwi"
+                ]
+            }
         ]
     },
     "published": {
         "form_data": [
-
-    {
-      "type": "date",
-      "label": "Publish Date",
-      "key": "publish_date"
-    },
-
-    {
-      "type": "time",
-      "label": "Publish Time",
-      "key": "publish_time"
-    }
-
-  ]
+            {
+                "type": "date",
+                "label": "Publish Date",
+                "key": "publish_date"
+            },
+            {
+                "type": "time",
+                "label": "Publish Time",
+                "key": "publish_time"
+            }
+        ]
     }
 }
