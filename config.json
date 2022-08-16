@@ -1,0 +1,140 @@
+{
+    "basic": {
+        "form_data": [
+            {
+                "type": "text",
+                "validations": [
+                    {
+                        "type": "regex",
+                        "value": ""
+                    },
+                    {
+                        "type": "min|max",
+                        "value": "10"
+                    },
+                    {
+                        "type": "min_length|max_length",
+                        "value": "10"
+                    }
+                ],
+                "default_value": "",
+                "placeholder": "",
+                "label": "",
+                "key": "name",
+                "is_required": true
+            },
+            {
+                "type": "dropdown",
+                "options_uri": "",
+                "options_value": [
+                    {
+                        "label": "1",
+                        "value": "1"
+                    },
+                    {
+                        "label": "2",
+                        "value": "3"
+                    }
+                ],
+                "defaultValue": "",
+                "placeholder": "",
+                "label": "",
+                "key": "",
+                "is_required": true,
+                "default_value": ""
+            }
+        ]
+    },
+    "metadata": {
+        "form_data": [
+            {
+                "type": "text",
+                "validations": [
+                    {
+                        "type": "regex",
+                        "value": ""
+                    },
+                    {
+                        "type": "min|max",
+                        "value": "10"
+                    },
+                    {
+                        "type": "min_length|max_length",
+                        "value": "10"
+                    }
+                ],
+                "default_value": "",
+                "placeholder": "",
+                "label": "",
+                "key": "name",
+                "is_required":true
+            },
+            {
+                "type": "dropdown",
+                "options_uri":"",
+                "options_value":[
+                    {
+                        "label":"1",
+                        "value":"1"
+                    },
+                    {
+                        "label":"2",
+                        "value":"3"
+                    }
+                ],
+                "defaultValue": "",
+                "placeholder": "",
+                "label": "",
+                "key": "",
+                "is_required":true,
+                "default_value":""
+            }
+        ]
+    },
+    "published": {
+        "form_data": [
+            {
+                "type": "text",
+                "validations": [
+                    {
+                        "type": "regex",
+                        "value": ""
+                    },
+                    {
+                        "type": "min|max",
+                        "value": "10"
+                    },
+                    {
+                        "type": "min_length|max_length",
+                        "value": "10"
+                    }
+                ],
+                "default_value": "",
+                "placeholder": "",
+                "label": "",
+                "key": "name",
+                "is_required":true
+            },
+            {
+                "type": "dropdown",
+                "options_uri":"",
+                "options_value":[
+                    {
+                        "label":"1",
+                        "value":"1"
+                    },
+                    {
+                        "label":"2",
+                        "value":"3"
+                    }
+                ],
+                "defaultValue": "",
+                "placeholder": "",
+                "label": "",
+                "key": "",
+                "is_required":true,
+                "default_value":""
+            }
+        ]
+    }
+}
